@@ -1,0 +1,57 @@
+.custom-button
+  &.trash
+    padding: 4px
+    width: 36px
+    height: 36px
+    background-color: transparent
+    color: #357ae8
+    cursor: pointer
+    border: none
+    &:focus
+      outline: dashed
+    &:hover 
+      color: black
+      &>svg
+        color: #285bad
+      &::after
+        content: '從收藏列中移除'
+        display: block
+        width: 100px
+        position: relative
+        top: 10px
+        left: 10px
+        font-size: 0.6rem
+        line-height: 2
+        color: #777
+        border: 1px solid #BBB
+  &.heart
+    padding: 4px
+    width: 36px
+    height: 36px
+    background-color: transparent
+    color: #888
+    cursor: pointer
+    border: none
+    &:focus
+      outline: dashed
+    &:hover 
+      color: black
+      &>svg
+        color: #f83670
+      &::after
+        content: '收藏影片'
+        display: block
+        width: 100px
+        position: relative
+        top: 10px
+        left: 10px
+        font-size: 0.6rem
+        line-height: 2
+        color: #777
+        border: 1px solid #BBB 
+    &.collected
+      color: #f83670
+      &:hover 
+        color: black
+        &>svg
+          color: #b62551

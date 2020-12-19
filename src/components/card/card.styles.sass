@@ -1,0 +1,49 @@
+
+.card
+    position: relative
+    width: 24.5%
+    margin: 12px 0
+    padding: 4px
+    cursor: default
+    border: 1px solid #DDD
+    border-radius: 4px
+    &:hover
+        box-shadow: 1px 1px 3px #666
+        background-color: #F0F0F0
+        & .card-duration
+            opacity: 1
+    &-container
+        width: 100%
+        position: relative
+        overflow: hidden
+    &-image
+        max-width: 100%
+        max-height: 100%
+        width: auto
+        height: auto
+        transition: transform 0.5s ease-in-out
+        &:hover
+            transform: scale(1.1)
+    &-duration
+        padding: 4px
+        position: absolute
+        right: 6px
+        transform: translateY(-130%)
+        font-size: 0.8rem
+        line-height: 1
+        color: #FFF
+        background-color: #000
+        opacity: 0.5
+        &:hover
+            opacity: 1
+    &-title
+        margin: 12px 0
+        padding: 0 4px
+        word-wrap: break-word   
+    &-description
+        padding: 0 4px
+        word-wrap: break-word
+        color: #666
+        font-size: 0.8rem
+        line-height: 1.5
+
