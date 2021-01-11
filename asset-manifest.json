@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/youtubapi-demo/static/css/main.4fe2075d.chunk.css",
-    "main.js": "/youtubapi-demo/static/js/main.7ad03eb3.chunk.js",
-    "main.js.map": "/youtubapi-demo/static/js/main.7ad03eb3.chunk.js.map",
-    "runtime-main.js": "/youtubapi-demo/static/js/runtime-main.1c383ab8.js",
-    "runtime-main.js.map": "/youtubapi-demo/static/js/runtime-main.1c383ab8.js.map",
-    "static/js/2.6208b52f.chunk.js": "/youtubapi-demo/static/js/2.6208b52f.chunk.js",
-    "static/js/2.6208b52f.chunk.js.map": "/youtubapi-demo/static/js/2.6208b52f.chunk.js.map",
-    "index.html": "/youtubapi-demo/index.html",
-    "static/css/main.4fe2075d.chunk.css.map": "/youtubapi-demo/static/css/main.4fe2075d.chunk.css.map",
-    "static/js/2.6208b52f.chunk.js.LICENSE.txt": "/youtubapi-demo/static/js/2.6208b52f.chunk.js.LICENSE.txt"
+    "main.css": "/youtubeapi-demo/static/css/main.4fe2075d.chunk.css",
+    "main.js": "/youtubeapi-demo/static/js/main.d39dc144.chunk.js",
+    "main.js.map": "/youtubeapi-demo/static/js/main.d39dc144.chunk.js.map",
+    "runtime-main.js": "/youtubeapi-demo/static/js/runtime-main.b223c920.js",
+    "runtime-main.js.map": "/youtubeapi-demo/static/js/runtime-main.b223c920.js.map",
+    "static/js/2.6208b52f.chunk.js": "/youtubeapi-demo/static/js/2.6208b52f.chunk.js",
+    "static/js/2.6208b52f.chunk.js.map": "/youtubeapi-demo/static/js/2.6208b52f.chunk.js.map",
+    "index.html": "/youtubeapi-demo/index.html",
+    "static/css/main.4fe2075d.chunk.css.map": "/youtubeapi-demo/static/css/main.4fe2075d.chunk.css.map",
+    "static/js/2.6208b52f.chunk.js.LICENSE.txt": "/youtubeapi-demo/static/js/2.6208b52f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c383ab8.js",
+    "static/js/runtime-main.b223c920.js",
     "static/js/2.6208b52f.chunk.js",
     "static/css/main.4fe2075d.chunk.css",
-    "static/js/main.7ad03eb3.chunk.js"
+    "static/js/main.d39dc144.chunk.js"
   ]
 }
